@@ -1,6 +1,4 @@
-# Portfolio
-
-## Live Sites
+# Live Sites
 * Nightlife App
   * Site: https://secure-hollows-42406.herokuapp.com/
   * Source code: https://github.com/paspheeris/nightlife
