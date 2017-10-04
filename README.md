@@ -1,4 +1,6 @@
 # Live Sites
+*Please note that the Heroku sites take a moment to spin up from sleep. Refresh once loaded for an accurate representation of load time.*
+
 * Nightlife App
   * Site: https://secure-hollows-42406.herokuapp.com/
   * Source code: https://github.com/paspheeris/nightlife
